@@ -1,12 +1,27 @@
 .. _intro-crativ:
 
-CRATIV平台
+CRATIV Platform
 ===========
 
-cnSRC平台还包括一台CRATIV系统，主要用于前期的数据处理与软件开发。
-远程登录可以使用VNC软件，软件使用module系统。
-详细信息可邮件 shaoska@shao.ac.cn  咨询 。
+cnSRC platform also includes a CRATIV system, mainly used for preliminary data processing and software development.
+Remote login can be done using VNC software, and software is managed using the module system.
+For further details, please feel free to reach out to us via email at shaoska@shao.ac.cn or chinasrc@googlegroups.com for inquiries.
 
 .. note:: 
 
-	CRATIV具有256G RAM/50TB Storage/Intel(R) Xeon(R) CPU E5-2698.
+	CRATIV has 256G RAM/50TB Storage/Intel(R) Xeon(R) CPU E5-2698.
+
+
+The easiest way to use the software on the CRATIV system is to use the initial script.
+
+.. code-block:: bash
+
+    $ source /usr/local/astrosoft/start_software.rc
+
+Then you can use the software.
+
+
+
+You can also use the module system to manage the software if you want to.
+
+For further details, please feel free to reach out to us via email at shaoska@shao.ac.cn or chinasrc@googlegroups.com for inquiries.
