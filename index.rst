@@ -9,7 +9,7 @@
 .. toctree::
    :maxdepth: 2
    :caption: 目录
-  
+
    docs/copyright/index.rst
    docs/introduction/intro.rst
    docs/introduction/intro-crativ.rst

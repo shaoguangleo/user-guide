@@ -4,6 +4,13 @@
 Internal User Login
 ########################
 
+.. caution::
+
+   本页面已过时。新版 web 平台登录流程请参考
+   :doc:`login`（账号密码登录）、:doc:`register`（注册账号）
+   和 :doc:`workbench`（登录后的工作台）。本文件保留以便查阅
+   旧版登录方式，仅供参考。
+
 .. warning::
 
    After successfully establishing a network connection with cnSRC , in order to further ensure the security of user data,

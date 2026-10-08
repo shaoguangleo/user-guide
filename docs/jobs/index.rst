@@ -35,3 +35,5 @@ cnSRC通过Slurm调度系统进行资源和作业管理，提高运行效率，�
     slurm-gpu.rst
     slurm-salloc.rst
     slurm-scancel.rst
+    quick-start.rst
+    applications.rst

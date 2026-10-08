@@ -13,3 +13,5 @@
 
     transfer.rst
     storage.rst
+    quota.rst
+    files.rst

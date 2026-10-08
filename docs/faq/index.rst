@@ -26,3 +26,7 @@ This chapter lists frequently asked questions and solutions during the use proce
     login.rst
     abbr.rst
     download.rst
+    points.rst
+    notifications.rst
+    tickets.rst
+    faq.rst

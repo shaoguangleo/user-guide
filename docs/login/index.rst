@@ -18,3 +18,7 @@ External users please use VPN or contact shaoska@shao.ac.cn for access permissio
     login-inter.rst
     login-ssh.rst
     login-outer.rst
+    register.rst
+    login.rst
+    workbench.rst
+    logout.rst
