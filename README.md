@@ -28,26 +28,17 @@ Welcome comments, issuse and PR.
 
 ## Citation
 
-If you use cnSRC in your research, please cite the following paper:
+如果您在研究中使用了cnSRC，注明以下信息将是十分有帮助的：
 
-```
-An, T., Wu, X., Lao, B., Guo, S., Xu, Z., Lv, W., Zhang, Y., Zhang, Z. 2022, "Status and progress of China SKA Regional Centre prototype", Science China Physics, Mechanics, and Astronomy, 65, 129501.
-```
+本研究使用了由中华人民共和国科学技术部资助研制的中国SKA区域中心节点资源。
 
-There is also a Chinese special issue for the cnSRC:
+If you use cnSRC in your research, please acknowledge the following:
 
-1. 安涛, 2023, "SKA区域中心数据处理系统和科学应用专题·编者按", 中国科学: 物理学 力学 天文学, 53, 229501.
-2. 郭绍光,安涛,徐志骏,劳保强,陈肖,陆扬,吕唯佳,伍筱聪, 2023, "中国SKA区域中心跨洲际高速数据传输进展及展望", 中国科学: 物理学 力学 天文学, 53, 229502-229503.
-3. 卫建文,张晨飞,劳保强,林新华,安涛, 2023, "SKA低频成像管线并行优化", 中国科学: 物理学 力学 天文学, 53, 229503-229504.
-4. 郭绍光,陆扬,安涛,劳保强,徐志骏,伍筱聪,吕唯佳, 2023, "面向SKA1时代的科学数据流及阵列模拟分析", 中国科学: 物理学 力学 天文学, 53, 229504-229505.
-5. 徐志骏,安涛,郭绍光,劳保强,吕唯佳,伍筱聪, 2023, "一个面向原始数据搜寻的快速射电暴数据集", 中国科学: 物理学 力学 天文学, 53, 229505-229506.
-6. 韦建文,张晨飞,张仲莉,余婷,林新华,安涛, 2023, "射电脉冲星搜索的优化方法", 中国科学: 物理学 力学 天文学, 53, 229506-229507.
-7. 劳保强,张迎康,安涛,徐志骏,郭绍光,伍筱聪,吕唯佳, 2023, "中国SKA区域中心原型系统——软件平台", 中国科学: 物理学 力学 天文学, 53, 229507-229508.
-
+This work used resources of China SKA Regional Centre funded by Ministry of Science and Technology of the People’s Republic of China. 
 
 
 ## Contact us
 
 Welcome comments, issuse and PR.
 
-Any questions, please contact us :mailbox: shaoska@shao.ac.cn 
+Any questions, please contact us :mailbox: shaoska@shao.ac.cn or cnsrc@shao.ac.cn
